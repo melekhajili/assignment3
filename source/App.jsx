@@ -1,26 +1,26 @@
-import { projects } from '../constants';
+import './App.css';
+import { BrowserRouter, Routes, Route, Outlet } from "react-router-dom"
+import Home from './components/Home';
+import Navbar from './components/Navbar';
 
-const ProjectCard = ({ project }) => {
-    return (
-        <div className="project-card">
-            <h3>{project.name}</h3>
-            <p>{project.description}</p>
-            <a target="_blank" href={project.link} rel='external'>Learn More</a>
-        </div>
-    );
-};
+function Layout() {
+  return <>
+    <Navbar />
+    <Outlet />
+  </>
+}
 
-const Home = () => {
-    return (
-        <div className="home">
-            <h1>My Projects</h1>
-            <div className="project-list">
-                {projects.map((project, index) => (
-                    <ProjectCard key={`project-${index}`} project={project} />
-                ))}
-            </div>
-        </div>
-    );
-};
+function App() {
+  return (
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Layout />}>
+          <Route index element={<Home />} />
+          <Route path="flashs" element={<></>} />
+        </Route>
+      </Routes>
+    </BrowserRouter>
+  );
+}
 
-export default Home;
+export default App;
