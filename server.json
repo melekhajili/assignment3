@@ -1,1 +1,300 @@
-{"payload":{"allShortcutsEnabled":true,"fileTree":{"":{"items":[{"name":"public","path":"public","contentType":"directory"},{"name":"src","path":"src","contentType":"directory"},{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"package-lock.json","path":"package-lock.json","contentType":"file"},{"name":"package.json","path":"package.json","contentType":"file"},{"name":"server.json","path":"server.json","contentType":"file"}],"totalCount":7}},"fileTreeProcessingTime":2.820275,"foldersToFetch":[],"reducedMotionEnabled":"system","repo":{"id":731745456,"defaultBranch":"main","name":"web","ownerLogin":"jhuseynzada","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2023-12-14T23:24:55.000+04:00","ownerAvatar":"https://avatars.githubusercontent.com/u/144772140?v=4","public":true,"private":false,"isOrgOwned":false},"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"main","listCacheKey":"v0:1702582363.0","canEdit":true,"refType":"branch","currentOid":"3b0d05f93fe5db454d30d501d251456bc27875ef"},"path":"server.json","currentUser":{"id":95547000,"login":"melekhajili","userEmail":"mhajili11330@ada.edu.az"},"blob":{"rawLines":["{","    \"flashs\":[","        {","            \"question\":\"question\",","            \"answer\":\"answer\"","        }","    ]","}"],"stylingDirectives":[[],[{"start":4,"end":12,"cssClass":"pl-ent"}],[],[{"start":12,"end":22,"cssClass":"pl-ent"},{"start":23,"end":33,"cssClass":"pl-s"},{"start":23,"end":24,"cssClass":"pl-pds"},{"start":32,"end":33,"cssClass":"pl-pds"}],[{"start":12,"end":20,"cssClass":"pl-ent"},{"start":21,"end":29,"cssClass":"pl-s"},{"start":21,"end":22,"cssClass":"pl-pds"},{"start":28,"end":29,"cssClass":"pl-pds"}],[],[],[]],"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/jhuseynzada/web/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":false,"repoAlertsPath":"/jhuseynzada/web/security/dependabot","repoSecurityAndAnalysisPath":"/jhuseynzada/web/settings/security_analysis","repoOwnerIsOrg":false,"currentUserCanAdminRepo":false},"displayName":"server.json","displayUrl":"https://github.com/jhuseynzada/web/blob/main/server.json?raw=true","headerInfo":{"blobSize":"109 Bytes","deleteInfo":{"deleteTooltip":"Fork this repository and delete the file"},"editInfo":{"editTooltip":"Fork this repository and edit the file"},"ghDesktopPath":"x-github-client://openRepo/https://github.com/jhuseynzada/web?branch=main&filepath=server.json","gitLfsPath":null,"onBranch":true,"shortPath":"7fc3f6f","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fjhuseynzada%2Fweb%2Fblob%2Fmain%2Fserver.json","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":"8","truncatedSloc":"8"},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplateHelpUrl":"https://docs.github.com/articles/about-issue-and-pull-request-templates","issueTemplate":null,"discussionTemplate":null,"language":"JSON","languageID":174,"large":false,"loggedIn":true,"newDiscussionPath":"/jhuseynzada/web/discussions/new","newIssuePath":"/jhuseynzada/web/issues/new","planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/jhuseynzada/web/blob/main/server.json","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","dismissStackNoticePath":"/settings/dismiss-notice/publish_stack_from_file","releasePath":"/jhuseynzada/web/releases/new?marketplace=true","showPublishActionBanner":false,"showPublishStackBanner":false},"rawBlobUrl":"https://github.com/jhuseynzada/web/raw/main/server.json","renderImageOrRaw":false,"richText":null,"renderedFileInfo":null,"shortPath":null,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"jhuseynzada","repoName":"web","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":false,"actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timedOut":false,"notAnalyzed":true,"symbols":[]}},"copilotInfo":{"documentationUrl":"https://docs.github.com/copilot/overview-of-github-copilot/about-github-copilot-for-individuals","notices":{"codeViewPopover":{"dismissed":false,"dismissPath":"/settings/dismiss-notice/code_view_copilot_popover"}},"userAccess":{"accessAllowed":false,"hasSubscriptionEnded":false,"orgHasCFBAccess":false,"userHasCFIAccess":false,"userHasOrgs":false,"userIsOrgAdmin":false,"userIsOrgMember":false,"business":null,"featureRequestInfo":null}},"copilotAccessAllowed":false,"csrf_tokens":{"/jhuseynzada/web/branches":{"post":"uWZ61Sjo0U7Jjwu77Vh9WtKyACTtiVnX-73N--7-JsoaZ8nxzdW4bmlF1O8Izhqpfd12x2dg0tkqA-UVYM6I3w"},"/repos/preferences":{"post":"y6NrwOmA_W6jkhqKJ7sDKEShZ6yQHArAiYpLEJgdYmjy-PrIMT0YHnjIxY3QT17pTPl2v9_shKWU8RG-Ql3zUg"}}},"title":"web/server.json at main · jhuseynzada/web"}
+{
+  "flashs": [
+    {
+      "question": "What does 'www' stand for in a website browser?",
+      "answer": "World Wide Web",
+      "updatedAt": "2024-01-03T12:11:51.039Z",
+      "status": "Learned",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "question": "How many continents are there on Earth?",
+      "answer": "Seven",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Want to Learn"
+    },
+    {
+      "id": 3,
+      "question": "What is the largest mammal in the world?",
+      "answer": "Blue Whale",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Noted"
+    },
+    {
+      "id": 4,
+      "question": "What element does 'O' represent on the periodic table?",
+      "answer": "Oxygen",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Learned"
+    },
+    {
+      "id": 5,
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "answer": "William Shakespeare",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Want to Learn"
+    },
+    {
+      "id": 6,
+      "question": "What is the speed of light?",
+      "answer": "299,792,458 meters per second",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Noted"
+    },
+    {
+      "id": 7,
+      "question": "What planet is known as the Red Planet?",
+      "answer": "Mars",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Learned"
+    },
+    {
+      "id": 8,
+      "question": "In what year did the Titanic sink?",
+      "answer": "1912",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Want to Learn"
+    },
+    {
+      "id": 9,
+      "question": "What is the hardest natural substance on Earth?",
+      "answer": "Diamond",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Noted"
+    },
+    {
+      "question": "Who proposed the theory of relativity?",
+      "answer": "Albert Einstein",
+      "updatedAt": "2024-01-03T12:12:15.767Z",
+      "status": "Learned",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "id": 10
+    },
+    {
+      "id": 11,
+      "question": "What is the chemical formula for water?",
+      "answer": "H2O",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Want to Learn"
+    },
+    {
+      "id": 12,
+      "question": "What is the largest ocean on Earth?",
+      "answer": "Pacific Ocean",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Noted"
+    },
+    {
+      "id": 13,
+      "question": "Who painted the Mona Lisa?",
+      "answer": "Leonardo da Vinci",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Learned"
+    },
+    {
+      "id": 14,
+      "question": "What gas do plants absorb during photosynthesis?",
+      "answer": "Carbon Dioxide",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Want to Learn"
+    },
+    {
+      "id": 15,
+      "question": "Who is known as the Father of Computers?",
+      "answer": "Charles Babbage",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Noted"
+    },
+    {
+      "id": 16,
+      "question": "What is the currency of Japan?",
+      "answer": "Japanese Yen",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Learned"
+    },
+    {
+      "id": 17,
+      "question": "What is the tallest mountain in the world?",
+      "answer": "Mount Everest",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Want to Learn"
+    },
+    {
+      "id": 18,
+      "question": "What organ pumps blood throughout the human body?",
+      "answer": "Heart",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Noted"
+    },
+    {
+      "id": 19,
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "answer": "Harper Lee",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Learned"
+    },
+    {
+      "id": 20,
+      "question": "Which planet is closest to the sun?",
+      "answer": "Mercury",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Want to Learn"
+    },
+    {
+      "id": 21,
+      "question": "What language has the most native speakers?",
+      "answer": "Mandarin Chinese",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Noted"
+    },
+    {
+      "id": 22,
+      "question": "What is the formula for calculating the area of a circle?",
+      "answer": "πr²",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Learned"
+    },
+    {
+      "id": 23,
+      "question": "Who discovered penicillin?",
+      "answer": "Alexander Fleming",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Want to Learn"
+    },
+    {
+      "id": 24,
+      "question": "What is the capital of Australia?",
+      "answer": "Canberra",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Noted"
+    },
+    {
+      "id": 25,
+      "question": "What is the main ingredient in sushi?",
+      "answer": "Rice",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Learned"
+    },
+    {
+      "id": 26,
+      "question": "Which element has the atomic number 1?",
+      "answer": "Hydrogen",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Want to Learn"
+    },
+    {
+      "id": 27,
+      "question": "Who wrote '1984' and 'Animal Farm'?",
+      "answer": "George Orwell",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Noted"
+    },
+    {
+      "id": 28,
+      "question": "What is the largest planet in our Solar System?",
+      "answer": "Jupiter",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Learned"
+    },
+    {
+      "id": 29,
+      "question": "What is the process by which plants make their food?",
+      "answer": "Photosynthesis",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Want to Learn"
+    },
+    {
+      "id": 30,
+      "question": "Who was the first woman to win a Nobel Prize?",
+      "answer": "Marie Curie",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Noted"
+    },
+    {
+      "id": 31,
+      "question": "What is the smallest bone in the human body?",
+      "answer": "Stapes (in the ear)",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Learned"
+    },
+    {
+      "id": 32,
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "answer": "Japan",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Want to Learn"
+    },
+    {
+      "id": 33,
+      "question": "What is the pH of pure water?",
+      "answer": "7 (neutral)",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Noted"
+    },
+    {
+      "id": 34,
+      "question": "Who wrote the 'Iliad' and the 'Odyssey'?",
+      "answer": "Homer",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Learned"
+    },
+    {
+      "id": 35,
+      "question": "What is the most abundant gas in the Earth's atmosphere?",
+      "answer": "Nitrogen",
+      "createdAt": "2024-01-03T08:00:00Z",
+      "updatedAt": "2024-01-03T08:00:00Z",
+      "status": "Want to Learn"
+    },
+    {
+      "question": "How are you",
+      "answer": "Fine",
+      "updatedAt": "2024-01-03T12:11:39.827Z",
+      "status": "Want to Learn",
+      "createdAt": "2024-01-03T12:05:56.454Z",
+      "id": 36
+    }
+  ],
+  "messages": [
+    {
+      "subject": "Salam",
+      "email": "sh.samxal@gmail.com",
+      "message": "Lorem ipsum doloers",
+      "id": 1
+    }
+  ]
+}

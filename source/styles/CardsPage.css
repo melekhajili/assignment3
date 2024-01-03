@@ -1,0 +1,73 @@
+.pages-container {
+  padding: 1em;
+}
+
+.search-box {
+margin-bottom: 20px;
+}
+
+.search-box input {
+width: 100%;
+padding: 10px;
+font-size: 16px;
+border: 1px solid #ccc;
+border-radius: 5px;
+outline: none;
+}
+
+.dropdownbox {
+margin-bottom: 20px;
+}
+
+.dropdownbox label {
+margin-right: 10px;
+}
+
+.dropdownbox select {
+width: 200px;
+padding: 10px;
+font-size: 16px;
+border: 1px solid #ccc;
+border-radius: 5px;
+outline: none;
+}
+
+.dropdownbox select option {
+font-size: 16px;
+}
+
+.categoryselectors{
+display: flex;
+gap: 1em;
+}
+
+.loading {
+font-size: 18px;
+font-weight: bold;
+margin-top: 20px;
+text-align: center;
+}
+
+.error {
+font-size: 18px;
+font-weight: bold;
+margin-top: 20px;
+text-align: center;
+color: red;
+}
+
+.mailShareButton {
+background-color: #4caf50;
+color: white;
+padding: 5px 10px;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+font-size: 1rem;
+margin: 10px 0;
+transition: background-color 0.3s;
+}
+
+.mailShareButton:hover {
+background-color: #45a049;
+}
