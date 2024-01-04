@@ -1,0 +1,72 @@
+/* General Card Styling */
+.card {
+  background-color: #fff; /* default background color */
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 15px;
+  padding: 20px;
+  transition: background-color 0.3s ease;
+}
+
+/* Question and Answer Styling */
+.question,
+.answer {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.answer {
+  color: #555;
+}
+
+/* Buttons Styling */
+.card-buttons button {
+  padding: 8px 15px;
+  margin-right: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.toggle-button {
+  background-color: #2980b9; /* Blue */
+  color: white;
+}
+
+.edit-button {
+  background-color: #f39c12; /* Yellow */
+  color: white;
+}
+
+.delete-button {
+  background-color: #e74c3c; /* Red */
+  color: white;
+}
+.card-actions {
+  display: flex;
+  align-items: center;
+}
+
+.card-buttons button:hover {
+  opacity: 0.8;
+}
+
+/* Date and Status Styling */
+.date,
+.status {
+  font-size: 14px;
+  color: #777;
+  margin-bottom: 5px;
+}
+.mailselectedbox {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.mailselectedbox input {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px; 
+}
